@@ -13,14 +13,17 @@ There is a common perception that movies on streaming platforms have been gettin
 
 ## File Structure
 - `investigate_netflix_movies.py`: The main Python script containing the data loading, filtering, analysis, and visualization logic.
+- `investigate_netflix_movies.ipynb`: The notebook version of this project, which can be run directly on Google Colab.
 - `.gitignore`: Standard rules to avoid committing unnecessary or temporary files.
 - `LICENSE`: MIT License.
 
-## Prerequisites
-To run the script locally, you need Python installed along with the following libraries:
-- `pandas`
-- `matplotlib`
+## How to Run
 
-You can install them via pip:
-```bash
-pip install pandas matplotlib
+### Option 1: Run on Google Colab (Recommended)
+You can view and run the interactive notebook version of this project directly in your browser via Google Colab:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_NOTEBOOK_URL_HERE)
+
+### Option 2: Run Locally
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/flowingcity777/Investigate-Netflix-Movies.git](https://github.com/flowingcity777/Investigate-Netflix-Movies.git)
